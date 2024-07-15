@@ -1,0 +1,117 @@
+body{
+	margin: 0;
+}
+p{
+	font-family: "微软雅黑";
+}
+#backtopbutton{
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	right: 15px;
+	bottom: 80px;
+	z-index: 5;
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 25px;
+}
+#backtopimg{
+	border-radius: 0;
+	margin: 13px;
+	width: 24px;
+}
+#hr{
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	background-color: #FFAA00;
+	z-index: 5;
+	border-bottom: 1px solid black;
+	box-shadow: 0px 1px 3px 1px black; 
+	margin: 0px;
+}
+#bottom{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	bottom: 0px;
+	z-index: 5;
+	box-shadow: 0px 0px 3px 1px black;
+	background-color: rgba(0,0,0,0.9);
+	text-align: center;
+}
+#logo{
+	margin-top: 5px;
+	height: 38px;
+	width: 38px;
+	border-radius: 0px;
+}
+#more{
+	margin-top: 20px;
+	width: 100%;
+	height: auto;
+	float: left;
+	color: #999999;
+	text-align: center;
+	font-size: 12px;
+}
+
+#menubox{
+	margin: 0 auto;
+	width: 90%;
+	height: auto;
+	margin-top: 20px;
+}
+#menubox div{
+	margin-top: 20px;
+	width: 100%;
+	height: 80px;
+	box-shadow: 0px 0px 3px 1px gray; 
+	border-radius: 25px;
+}
+#menubox div img{
+	width: 100%;
+	height: auto;
+	border-radius: 25px;
+}
+#menubox div h2{
+	margin: 0;
+	color: white;
+	margin-left: 15px;
+	margin-top: -65px;
+}
+#menubox div p{
+	margin: 0;
+	color: white;
+	font-size: 12px;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
